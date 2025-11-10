@@ -9,18 +9,18 @@ This repository provides sample implementations for the **pre-training** and **f
 
 ## Table of Contents
 
-1. [Overview](#-overview)
-2. [Requirements](#-requirements)
-3. [Pre-training Usage](#-pre-training-usage)
+1. [Overview](#overview)
+2. [Requirements](#requirements)
+3. [Pre-training Usage](#pre-training-usage)
 
-   * [Dataset Preparation](#-dataset-preparation)
-   * [Compute Specification](#️-compute-specification)
+   * [Dataset Preparation](#dataset-preparation)
+   * [Compute Specification](#compute-specification)
    * [BabyHuBERT-1 (First Iteration)](#-babyhubert-1--first-iteration)
    * [BabyHuBERT-2 (Second Iteration)](#-babyhubert-2--second-iteration)
-4. [Finetuning Usage](#-finetuning-usage)
+4. [Finetuning Usage](#finetuning-usage)
 
-   * [Step 1: Configure Model](#️-step-1-configure-model)
-   * [Step 2: Run Finetuning](#-step-2-run-finetuning)
+   * [Step 1: Configure Model](#step-1-configure-model)
+   * [Step 2: Run Finetuning](#step-2-run-finetuning)
 5. [Citation](#-citation)
 
 ---
