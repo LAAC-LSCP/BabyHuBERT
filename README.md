@@ -102,8 +102,14 @@ Training was conducted on **32×H100 GPUs**, distributed across **8 nodes (4 GPU
 
 ---
 
-## 🔹 BabyHuBERT-1 — First Iteration
+Use correct environment
+```bash
+source .venv-pretrain/bin/activate
+```
 
+---
+
+## 🔹 BabyHuBERT-1 — First Iteration
 ### Preprocess
 
 ```bash
@@ -167,6 +173,13 @@ srun uv run train.py \
 ## Finetuning Usage
 
 Finetuning is performed using the **[segma](https://github.com/arxaqapi/segma)** library.
+
+---
+
+Use correct environment
+```bash
+source .venv-finetuning/bin/activate
+```
 
 ---
 
