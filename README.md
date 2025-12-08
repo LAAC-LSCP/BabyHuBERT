@@ -5,6 +5,8 @@
 This repository provides sample implementations for the **pre-training** and **finetuning** pipelines of
 **[BabyHuBERT: Multilingual Self-Supervised Learning for Segmenting Speakers in Child-Centered Long-Form Recordings](https://arxiv.org/abs/2509.15001)**.
 
+If you want to use the finetuned version of BabyHuBERT on the Voice Type Classification task please look at [VTC2.0](https://github.com/LAAC-LSCP/VTC)
+
 ---
 
 ## Table of Contents
